@@ -1,3 +1,6 @@
+My stuff is in the src directory, most of thiss stuff is vendor source from the console component in symphony.
+=============================================================================================================
+
 Console Component
 =================
 
