@@ -17,7 +17,8 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "symfony/polyfill-mbstring": "~1.0"
+        "symfony/polyfill-mbstring": "~1.0",
+        "phpunit/phpunit": "5.6.1"
     },
     "require-dev": {
         "symfony/event-dispatcher": "~2.8|~3.0",
